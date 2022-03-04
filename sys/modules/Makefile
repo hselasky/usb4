@@ -365,6 +365,7 @@ SUBDIR=	\
 	${_syscons} \
 	sysvipc \
 	tcp \
+	thunderbolt \
 	${_ti} \
 	tmpfs \
 	${_toecore} \

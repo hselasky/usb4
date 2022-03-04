@@ -88,6 +88,7 @@ SUBDIR=	adduser \
 	spray \
 	syslogd \
 	sysrc \
+	tbtconfig \
 	tcpdrop \
 	tcpdump \
 	tcpsso \
